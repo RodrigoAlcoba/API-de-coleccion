@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API de coleccion.iml" filepath="$PROJECT_DIR$/.idea/API de coleccion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Listas/Listas.iml" filepath="$PROJECT_DIR$/Listas/Listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TareaListas/TareaListas.iml" filepath="$PROJECT_DIR$/TareaListas/TareaListas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colecciones/colecciones.iml" filepath="$PROJECT_DIR$/colecciones/colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapas/mapas.iml" filepath="$PROJECT_DIR$/mapas/mapas.iml" />
+    </modules>
+  </component>
+</project>
